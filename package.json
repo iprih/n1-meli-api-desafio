@@ -1,0 +1,27 @@
+{
+  "name": "n1-meli-api-desafio",
+  "version": "1.0.0",
+  "description": "A empresa Optus contratou você para disponibilizar uma API para listar todos os filmes da plataforma. Cada filme contém as seguintes informações:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iprih/n1-meli-api-desafio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iprih/n1-meli-api-desafio/issues"
+  },
+  "homepage": "https://github.com/iprih/n1-meli-api-desafio#readme",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "moon": "^1.0.0-beta.4",
+    "nodemon": "^1.19.4"
+  }
+}

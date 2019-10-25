@@ -1,45 +1,52 @@
 [
     {
-        "Titulo": "",
-        "Sinopse": "",
-        "Data de Lancamento": "",
-        "Duracao em Minutos": "",
-        "Genero": ""
+        "Titulo": "TITANIC",
+        "Sinopse": "Jack Dawson (Leonardo DiCaprio) é um jovem aventureiro que, na mesa de jogo, ganha uma passagem para a primeira viagem do transatlântico Titanic. Trata-se de um luxuoso e imponente navio, anunciado na época como inafundável, que parte para os Estados Unidos. Nele está também Rose DeWitt Bukater (Kate Winslet), a jovem noiva de Caledon Hockley (Billy Zane). Rose está descontente com sua vida, já que sente-se sufocada pelos costumes da elite e não ama Caledon. Entretanto, ela precisa se casar com ele para manter o bom nome da família, que está falida. Um dia, desesperada, Rose ameaça se atirar do Titanic, mas Jack consegue demovê-la da ideia. Pelo ato ele é convidado a jantar na primeira classe, onde começa a se tornar mais próximo de Rose. Logo eles se apaixonam, despertando a fúria de Caledon. A situação fica ainda mais complicada quando o Titanic se choca com um iceberg, provocando algo que ninguém imaginava ser possível: o naufrágio do navio.",
+        "Data de Lancamento": "16/01/1998",
+        "Duracao em Minutos": "181",
+        "Genero": "Drama, Romance",
+        "Direcao": "James Cameron"
     },
     {
-        "Titulo": "",
-        "Sinopse": "",
-        "Data de Lancamento": "",
-        "Duracao em Minutos": "",
-        "Genero": ""
+        "Titulo": "O PLANETA DOS MACACOS",
+        "Sinopse": "George Taylor (Charlton Heston), um astronauta americano, viaja por séculos em estado de hibernação. Ao acordar, ele e seus companheiros se vêem em um planeta dominado por macacos, no qual os humanos são tratados como escravos e nem mesmo tem o dom da fala.",
+        "Data de Lancamento": "21/12/1968",
+        "Duracao em Minutos": "80",
+        "Genero": "Ficção científica, Drama",
+        "Direcao": "Franklin J. Schaffner"
+
     },
     {
-        "Titulo": "",
-        "Sinopse": "",
-        "Data de Lancamento": "",
-        "Duracao em Minutos": "",
-        "Genero": ""
+        "Titulo": "DE VOLTA AO PLANETA DOS MACACOS",
+        "Sinopse": "Tentando resgatar Taylor (Charlton Heston), que desapareceu na missão anterior, Brent (James Franciscus), um outro astronauta, atravessa uma fenda do tempo e chega até 3955 D.C. Porém sua nave se espatifa no mesmo planeta em que Taylor desapareceu. Ao ir para a Zona Proibida, Brent gradativamente vê que aquilo são os escombros de Nova York. Paralelamente os símios resolvem atacar a Zona Proibida, que Brent ao explorar descobre uma raça de mutantes, que se comunicam telepaticamente e que adoram uma bomba atômica, que é capaz de destruir a Terra inteira.",
+        "Data de Lancamento": "03/07/1970",
+        "Duracao em Minutos": "76",
+        "Genero": "Ficção científica, Ação",
+        "Direcao": "Ted Post"
     },
     {
-        "Titulo": "",
-        "Sinopse": "",
-        "Data de Lancamento": "",
-        "Duracao em Minutos": "",
-        "Genero": ""
+        "Titulo": "FUGA DO PLANETA DOS MACACOS",
+        "Sinopse": "Dois cientistas símios, Cornelius (Roddy McDowall) e Zira (Kim Hunter) - na verdade havia mais um, Milo (Sal Mineo), que morreu acidentalmente - retornam no tempo e chegam no século XX, em Los Angeles. Quando eles revelam sua habilidade para falar primeiramente são tratados como curiosidade, mas depois como uma grande ameaça, quando o governo crê na história que a Terra será dominada por chimpanzés e assim tenta evitar o nascimento do bebê de Zira.",
+        "Data de Lancamento": "03/09/1971",
+        "Duracao em Minutos": "78",
+        "Genero": "Ficção cientifica",
+        "Direcao": "Don Taylor"
     },
     {
-        "Titulo": "",
-        "Sinopse": "",
-        "Data de Lancamento": "",
-        "Duracao em Minutos": "",
-        "Genero": ""
+        "Titulo": "A CONQUISTA DO PLANETA DOS MACACOS",
+        "Sinopse": "Uma praga exterminou os cães e os gatos da face da Terra, o que fez com que os macacos se tornassem animais de estimação. Eles são tratados como escravos, o que revolta Caesar (Roddy McDowall), o filho de Cornelius e Zira, que perdeu os pais ainda cedo e foi criado pelo dono de um circo. Ele passa a liderar uma rebelião dos macacos contra os humanos.",
+        "Data de Lancamento": "11/08/1972",
+        "Duracao em Minutos": "68",
+        "Genero": "Ficção científica, Ação",
+        "Direcao": "Jack Lee Thompson"
     },
     {
-        "Titulo": "",
-        "Sinopse": "",
-        "Data de Lancamento": "",
-        "Duracao em Minutos": "",
-        "Genero": ""
+        "Titulo": "A BATALHA DO PLANETA DOS MACACOS",
+        "Sinopse": "Após derrotar os humanos opressores, Caesar (Roddy MacDowall) precisa agora manter a paz entre homens e macacos. Só que o general Aldo (Claude Atkins) vê a situação de uma maneira diferente, o que provoca um guerra civil entre os macacos. Paralelamente, alguns humanos sobreviventes descobrem como entrar na cidade dos macacos e elaboram um meio de retomar o controle do planeta.",
+        "Data de Lancamento": "04/01/1974",
+        "Duracao em Minutos": "64",
+        "Genero": "Ficção científica",
+        "Direcao": "Jack Lee Thompson"
     },
     {
         "Titulo": "",

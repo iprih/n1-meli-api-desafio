@@ -20,7 +20,7 @@
   "homepage": "https://github.com/iprih/n1-meli-api-desafio#readme",
   "dependencies": {
     "debug": "^4.1.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "moon": "^1.0.0-beta.4",
     "nodemon": "^1.19.4"
   }
